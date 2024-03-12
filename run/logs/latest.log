@@ -1,0 +1,66 @@
+[123月2024 20:02:12.972] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserveruserdev, --gameDir, ., --fml.forgeVersion, 38.0.15, --fml.mcVersion, 1.18, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20211130.085255, --nogui, --mixin.config, swdheftpywaedf.mixins.json]
+[123月2024 20:02:12.977] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.24+9.0.24+main.7be9f01d starting: java version 17.0.2 by Oracle Corporation
+[123月2024 20:02:14.039] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/E:/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%2327! Service=ModLauncher Env=SERVER
+[123月2024 20:02:16.775] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserveruserdev' with arguments [--gameDir, ., --nogui]
+[123月2024 20:02:17.507] [main/WARN] [mixin/]: Reference map 'swdheftpywaedf.refmap.json' for swdheftpywaedf.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:02:26] [modloading-worker-0/INFO]: Forge mod loading, version 38.0.15, for MC 1.18 with MCP 20211130.085255
+[20:02:26] [modloading-worker-0/INFO]: MinecraftForge v38.0.15 Initialized
+[123月2024 20:02:29.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[123月2024 20:02:31.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 38.0.15 Target: 38.0.17
+[123月2024 20:02:32.041] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:02:32] [main/WARN]: Assets URL 'union:/E:/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18-38.0.15_mapped_official_1.18/forge-1.18-38.0.15_mapped_official_1.18-recomp.jar%2377!/assets/.mcassetsroot' uses unexpected schema
+[20:02:32] [main/WARN]: Assets URL 'union:/E:/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18-38.0.15_mapped_official_1.18/forge-1.18-38.0.15_mapped_official_1.18-recomp.jar%2377!/data/.mcassetsroot' uses unexpected schema
+[20:02:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:02:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:02:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:02:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:02:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:02:33] [main/INFO]: Reloading ResourceManager: Default, main, 
+[20:02:37] [Worker-Main-8/INFO]: Loaded 7 recipes
+[20:02:41] [Worker-Main-8/INFO]: Loaded 1141 advancements
+[20:02:44] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[20:02:45] [Server thread/INFO]: Starting minecraft server version 1.18
+[20:02:45] [Server thread/INFO]: Loading properties
+[20:02:45] [Server thread/INFO]: Default game type: SURVIVAL
+[20:02:45] [Server thread/INFO]: Generating keypair
+[20:02:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:02:45] [Server thread/INFO]: Using default channel type
+[20:02:46] [Server thread/INFO]: Preparing level "world"
+[20:02:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:02:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:02:51] [Server thread/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:02:56] [Worker-Main-14/INFO]: Preparing spawn area: 100%
+[20:02:56] [Server thread/INFO]: Time elapsed: 5848 ms
+[20:02:56] [Server thread/INFO]: Done (10.218s)! For help, type "help"
+[20:02:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:02:57] [Server thread/INFO]: <--[HERE]
+[20:03:06] [User Authenticator #1/INFO]: UUID of player KSmc_brigade is 83ecdc2c-6c30-4a68-921a-0176c0ee1868
+[20:03:07] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d93724c
+[20:03:07] [Server thread/INFO]: KSmc_brigade[/127.0.0.1:51261] logged in with entity id 1 at (-26.5, 75.0, -72.5)
+[20:03:07] [Server thread/INFO]: KSmc_brigade joined the game
+[20:03:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:03:11] [Server thread/INFO]: <--[HERE]
+[20:03:20] [Server thread/INFO]: Made KSmc_brigade a server operator
+[20:03:29] [Server thread/INFO]: KSmc_brigade has made the advancement [The End?]
+[20:03:30] [Server thread/INFO]: [KSmc_brigade: Teleported KSmc_brigade to 0.500000, 100.000000, 0.500000]
+[20:03:32] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:03:32] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[20:03:33] [Server thread/WARN]: KSmc_brigade moved too quickly! 0.0,-11.141611616128841,0.0
+[20:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[20:03:35] [Server thread/INFO]: KSmc_brigade fell from a high place
+[20:03:36] [Server thread/INFO]: Skipping update from removed player 'ServerPlayer['KSmc_brigade'/1, l='ServerLevel[world]', x=0.50, y=65.00, z=0.50, removed=KILLED]'
+[20:03:40] [Server thread/INFO]: <KSmc_brigade> 6
+[20:03:40] [Server thread/INFO]: [KSmc_brigade: Set own game mode to Creative Mode]
+[20:03:42] [Server thread/INFO]: [KSmc_brigade: Teleported KSmc_brigade to 0.500000, 100.000000, 0.500000]
+[20:03:50] [Server thread/WARN]: KSmc_brigade moved too quickly! -1.5904159697977818,0.0,10.26722521571136
+[20:04:10] [Server thread/INFO]: KSmc_brigade lost connection: Disconnected
+[20:04:10] [Server thread/INFO]: KSmc_brigade left the game
